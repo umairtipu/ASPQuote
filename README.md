@@ -2,7 +2,7 @@
 
 ## Project Description
 
-Here is the description
+This project is live at https://aspquote.com/. This project is to register customers for insurance in USA only. The system is affiliated with the API provided by https://mediaalpha.com and all of the information is sent to the API using advanced form in this project.
 
 ## Project setup
 
